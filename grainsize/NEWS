@@ -1,0 +1,20 @@
+Changes for R-package grainsize
+
+Version 0.1.0 (2014-10-20)
+	- Initial version
+
+Version 0.1.1 (2015-01-16)
+	- Function read.CamSizerXT() added
+	- Output format of read.LA950() modified
+	- examples homogenised
+
+Version 0.1.2 (2015-08-23)
+	- Function calc_mean added
+	- all function names homogenised
+	- all code switched to ROxygen2 format
+
+Version 0.1.3 (2017-05-09)
+	- Function read_LA950 rewritten for new data format
+	- a set of bugs removed
+	- read_LA950(): output structure changed, meta contains complete results
+
